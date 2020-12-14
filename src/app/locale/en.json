@@ -1,0 +1,121 @@
+{
+  "branch": {
+    "defaultTitle": "Mobile Ticket",
+    "btn_text_separator" : ",",
+    "loading": "Loading...",
+    "noBranches": "Sorry, there are no available branches close by.",
+    "tryAgain": "Try again",
+    "clickHere": "Click here",
+    "loadBranches": "to start over",
+    "notFound": "Sorry something went wrong,",
+    "diffLocation": "at a different location.",
+    "subHeadingOne": "Welcome to Qmatic!",
+    "subHeadingTwo": "Do you want to get in line for one of our services? Start by selecting location.",
+    "positionPermission" : "If you want to list nearby branches, please enable Location Services. Otherwise, all branches will be listed."
+  },
+  "service": {
+    "subHeadingOne": "Welcome to Qmatic!",
+    "accentBtnText": "Get in line",
+    "selectService": "Please select a service at",
+    "defaultTitle": "Mobile Ticket",
+    "waiting": "Waiting"
+  },
+  "ticketInfo": {
+    "leaveVisitConfirmMsg": "Would you like to leave the line?",
+    "btnTitleLeaveLine": "Leave the line",
+    "defaultTitle": "Mobile Ticket",
+    "titleYourTurn": "It's your turn!",
+    "ticketReady": "{firstName} is ready to serve you at",
+    "titleInLine": "position",
+    "btnTitleNewTicket": "Get new ticket",
+    "ticketRemovedHeading": "Your ticket has been removed",
+    "yourPosition": "You",
+    "queueHeading": "Your place in line:",
+    "ticketEndHeading": "Thank you for visiting us!",
+    "welcomeback": "Welcome back!",
+    "visitRecycledMessage": "You will be called shortly",
+    "visitAppRemoved": "No Entry Point of type SW_VISITAPP on branch, cannot create or delete visit",
+    "btnOpenMeeting" : "Enter meeting"
+  },
+  "visit": {
+    "notFound": "Sorry something went wrong,",
+    "onGoingVisit": "Sorry, There is an ongoing visit. Please close it before proceed",
+    "clickHere": "Click here",
+    "loadBranches": "to start over"
+  },
+  "error_codes": {
+    "error_8042": "Line is full. Please try again later."
+  },
+  "connection" : {
+    "issue_with_connection" : "Sorry, there seems to be an issue with the connection."
+  },
+  "support" : {
+    "this_browser" : "this browser",
+    "not_support_p1" : "Mobile Ticket is not compatible with ",
+    "not_support_p2" : ", please launch Mobile Ticket in the latest version of either Chrome, Safari or Opera instead.",
+    "not_support_create_ticket" : "Please contact a staff member if you need further help."
+  },
+  "dialog" : {
+    "confirm" : {
+      "ok" : "Ok",
+      "cancel" : "Cancel",
+      "title" : "This is a Confirmation"
+    },
+    "alert" : {
+      "ok" : "Ok",
+      "title" : "This is an Alert"
+    }
+  },
+  "open_hours" : {
+      "heading1" : "This service is currently not available.",
+      "heading2" : "Our opening hours are:" ,     
+      "week_day1" : "Monday",
+      "week_day2" : "Tuesday",
+      "week_day3" : "Wednesday",
+      "week_day4" : "Thursday",
+      "week_day5" : "Friday",
+      "week_day6" : "Saturday",
+      "week_day7" : "Sunday",
+      "closed" : "Closed"
+   },
+   "appointment" : {
+     "subHeadingOne" : "Welcome to Qmatic!",
+     "subHeadingTwo" : "Your appointment",
+     "branch" : "Branch:",
+     "service" : "Service:",
+     "time" : "Time:",
+     "date" : "Date:",
+     "tooEearly" : "You arrived too early for your appointment. You can only ",
+     "arriveBtnText" : "Arrive",
+     "error" : {
+       "date" : "Your appointment is booked for another day. Please come back on the date of your appointment.",
+       "status" : "Your appointment has already been arrived.",
+       "early" : "You are too early for your appointment. Please return later.",
+       "late" : "You are too late for your appointment. Please book a new appointment.",
+       "notFound" : "Your appointment cannot be found."
+      }
+   },
+   "customer_info" : {
+    "phoneNumber" : "Phone number",
+    "editPhoneNumber" : "Edit phone number",
+    "phoneNumberError" : "Please enter vaild phone number",
+    "vistInfoTitle" : "VISIT INFORMATION YOU GET",
+    "smsOnTime" : "SMS when it's time",
+    "avoidTicketLoss" : "Ticket on SMS to avoid loss",
+    "agreeDescription" : "By sending information, you agree to the ",
+    "privacyPolicy" : "privacy policy",
+    "understood" : "Understood",
+    "canDeleteInfo" : "You can delete your information.",
+    "btnDelete" : "DELETE",
+    "btnCancel" : "CANCEL",
+    "selectedBranch": "Selected branch",
+    "selectedService": "Selected service",
+    "skipAndGetInLine": "Skip & get in line",
+    "phone_placeholder": "+46 XX XXX XX XX"
+
+  },
+  "pricacy_policy" : { 
+    "title" : "Privacy policy",
+    "description" : "Policy statements serve to protect an organization from misunderstandings that might lead to unauthorized behavior or lawsuits. Each policy statement should include its purpose, terminology definitions, the statement itself and the steps to implement it. Policy statements serve to protect an organization from misunderstandings that might lead to unauthorized behavior or lawsuits. Each policy statement should include its purpose, terminology definitions, the statement itself and the steps to implement it. Policy statements serve to protect an organization from misunderstandings that might lead to unauthorized behavior or lawsuits. Each policy statement should include its purpose, terminology definitions, the statement itself and the steps to implement it. definitions, the statement itself and the steps to implement it. Policy statements serve to protect an organization from misunderstandings that might lead to unauthorized behavior or lawsuits. Each policy statement should include its purpose, terminology definitions, the statement itself and the steps to implement it. Policy statements serve to protect an organization from misunderstandings that might lead to unauthorized behavior or lawsuits. Each policy statement should include its purpose, terminology definitions, the statement itself and the steps to implement it."
+  }
+}
